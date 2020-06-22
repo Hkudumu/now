@@ -11,7 +11,7 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             return View();
-            //sub branch done
+            //main branch done
         }
 
         public ActionResult About()
